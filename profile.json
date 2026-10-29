@@ -1,0 +1,195 @@
+{
+  "name": "BetterToAutomateTheWorld",
+  "handle": "automate",
+  "host": "switzerland",
+  "style": "wave",
+  "tagline": "Senior Platform Engineer — Quant & Trading Platforms (TAT)",
+  "location": "Switzerland · github.com/BetterToAutomateTheWorld",
+  "spoken": [
+    [
+      "French",
+      "native"
+    ],
+    [
+      "English",
+      "fluent"
+    ],
+    [
+      "Spanish",
+      "school level"
+    ],
+    [
+      "German",
+      "school level"
+    ]
+  ],
+  "groups": [
+    [
+      "Cloud",
+      [
+        [
+          "AWS",
+          [
+            "amazonaws"
+          ]
+        ],
+        [
+          "Azure",
+          [
+            "microsoftazure"
+          ]
+        ],
+        [
+          "Alibaba Cloud",
+          [
+            "alibabacloud"
+          ]
+        ],
+        [
+          "Google Cloud",
+          [
+            "googlecloud"
+          ]
+        ],
+        [
+          "Oracle Cloud (OCI)",
+          [
+            "oracle"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Infrastructure & platform",
+      [
+        [
+          "Terraform",
+          [
+            "terraform"
+          ]
+        ],
+        [
+          "Ansible · AWX",
+          [
+            "ansible"
+          ]
+        ],
+        [
+          "Vela CI",
+          [
+            "pipeline"
+          ]
+        ],
+        [
+          "Jenkins",
+          [
+            "jenkins"
+          ]
+        ],
+        [
+          "Docker",
+          [
+            "docker"
+          ]
+        ],
+        [
+          "Kubernetes",
+          [
+            "kubernetes"
+          ]
+        ],
+        [
+          "Vault",
+          [
+            "vault"
+          ]
+        ],
+        [
+          "Datadog",
+          [
+            "datadog"
+          ]
+        ],
+        [
+          "Prometheus stack",
+          [
+            "prometheus",
+            "grafana"
+          ]
+        ],
+        [
+          "PostgreSQL",
+          [
+            "postgresql"
+          ]
+        ],
+        [
+          "MariaDB",
+          [
+            "mariadb"
+          ]
+        ],
+        [
+          "TFLint · Checkov",
+          [
+            "iaccheck"
+          ]
+        ],
+        [
+          "Local LLMs",
+          [
+            "localllm"
+          ]
+        ]
+      ]
+    ],
+    [
+      "Programming languages",
+      [
+        [
+          "Python",
+          [
+            "python"
+          ]
+        ],
+        [
+          "HCL",
+          [
+            "hashicorp"
+          ]
+        ],
+        [
+          "Shell · Bash · Zsh",
+          [
+            "gnubash",
+            "zsh"
+          ]
+        ],
+        [
+          "YAML",
+          [
+            "yaml"
+          ]
+        ],
+        [
+          "Jinja",
+          [
+            "jinja"
+          ]
+        ]
+      ]
+    ]
+  ],
+  "projects_note": [
+    "I have run my own forge for more than 10 years, and my personal projects live there.",
+    "I don't publish them on GitHub: this account is for external contributions."
+  ],
+  "interests": [
+    "Cloud platform engineering",
+    "Infrastructure as Code",
+    "CI/CD",
+    "AI agents and local LLMs",
+    "automation"
+  ],
+  "stats_user": "BetterToAutomateTheWorld"
+}
